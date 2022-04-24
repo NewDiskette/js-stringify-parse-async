@@ -1,0 +1,27 @@
+"tabnine.experimentalAutoImports": true,
+"workbench.colorTheme": "Monokai",
+"editor.wordWrap": "on",
+"nebulaOni.update.restoreConfiguration": {
+    "themeSettings": {
+        "background": "Grey",
+        "main": "Bumblebee",
+        "highlight": "Ultra Violet",
+        "focusBorder": "ON",
+        "fontStyle": "Italic",
+        "comments": "Dark Violet",
+        "favorite": "OFF"
+    },
+    "favoriteSettings": {
+        "background": "Glacial Blue",
+        "main": "Sakura",
+        "highlight": "Ultra Violet",
+        "focusBorder": "ON",
+        "fontStyle": "Italic",
+        "comments": "Dark Magenta",
+        "favorite": "Nebula Oni (Pegasus)"
+    }
+},
+"workbench.iconTheme": "simple-icons",
+"files.autoSave": "afterDelay",
+"workbench.editor.enablePreview": false,
+"bracketPairColorizer.depreciation-notice": false   
